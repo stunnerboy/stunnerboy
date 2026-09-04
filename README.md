@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stunnerboy489@gmail.com**
 
-<img align="right" src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg" width = "400px" /> 
+<img align="right" src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg" width = "100%" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" display="flex">
